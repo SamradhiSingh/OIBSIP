@@ -6,7 +6,7 @@ This project is about Credit card fraud involves unauthorized use of a credit ca
 Dataset used in the project is:
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
-The dataset zip file cannot be uploaded here because of its big memory size (more than 25mb)
+# The dataset zip file cannot be uploaded here because of its big memory size (more than 25mb)
 
 
 
